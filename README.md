@@ -28,18 +28,12 @@ Rozetka Scraper is a Python project designed to scrape product data from the Roz
     cd rozetka_scraper
     ```
 
-3. Install the required packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ## Usage
 
 1. Run the scraper:
 
     ```bash
-    python scraper.py
+    python rozetka_scraper.py
     ```
 
 ## Contributing
